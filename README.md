@@ -19,7 +19,6 @@ Node.js, Express.js, MongoDB, Full MERN Stack Development
 I enjoy turning creative ideas into real world web applications and continuously learning new technologies!
 
  <h2>🔗 Social Links</h2>
- <hr style="height:1px; border:none; background-color:#ccc; width:50%; margin:auto;">
 <div>
   <a href="https://www.linkedin.com/in/samiksha-awaik-325a19327/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
@@ -32,7 +31,6 @@ I enjoy turning creative ideas into real world web applications and continuously
 <br>
 
 <h2>💻 Tech Stack</h2>
-<hr style="height:1px; border:none; background-color:#ccc; width:50%; margin:auto;">
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" />
